@@ -1,0 +1,11 @@
+{
+    "id": "fb_messenger_plugin",
+    "name": "Facebook Messenger Plugin",
+    "description": "Gửi và nhận tin nhắn Facebook",
+    "version": "1.0.0",
+    "files": [
+      "main.py",
+      "plugin.json"
+    ]
+  }
+  
